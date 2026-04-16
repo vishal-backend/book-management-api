@@ -23,7 +23,7 @@ This project demonstrates backend development using Java, Spring Boot, and RESTf
 - Spring Boot
 - Spring Data JPA
 - Hibernate
-- MySQL / H2 Database
+- MySQL 
 - Maven
 
 ---
