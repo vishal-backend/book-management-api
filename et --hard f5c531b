@@ -1,0 +1,26 @@
+[33m1892613[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m refs/heads/main@{0}: reset: moving to 1892613
+[33m1892613[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to 1892613
+[33mf5c531b[m refs/heads/main@{1}: reset: moving to HEAD@{2}
+[33mf5c531b[m HEAD@{1}: reset: moving to HEAD@{2}
+[33mf10daa9[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{2}: reset: moving to HEAD
+[33mf10daa9[m[33m ([m[1;31morigin/main[m[33m)[m refs/remotes/origin/main@{0}: update by push
+[33mf10daa9[m[33m ([m[1;31morigin/main[m[33m)[m refs/heads/main@{2}: commit: Removed old code
+[33mf10daa9[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{3}: commit: Removed old code
+[33mf5c531b[m refs/remotes/origin/main@{1}: update by push
+[33mf5c531b[m refs/heads/main@{3}: commit: force refresh project
+[33mf5c531b[m HEAD@{4}: commit: force refresh project
+[33m72862f7[m refs/remotes/origin/main@{2}: update by push
+[33m72862f7[m refs/heads/main@{4}: commit: Small Improvement
+[33m72862f7[m HEAD@{5}: commit: Small Improvement
+[33m88742fb[m refs/remotes/origin/main@{3}: update by push
+[33m88742fb[m refs/heads/main@{5}: pull origin main: Merge made by the 'ort' strategy.
+[33m3c7e772[m refs/remotes/origin/main@{4}: pull origin main: fast-forward
+[33m88742fb[m HEAD@{6}: pull origin main: Merge made by the 'ort' strategy.
+[33m1892613[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m refs/heads/main@{6}: commit: Improving Book & Author Controller
+[33m1892613[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{7}: commit: Improving Book & Author Controller
+[33ma51b938[m refs/remotes/origin/main@{5}: update by push
+[33ma51b938[m refs/heads/main@{7}: commit (merge): resolved merge
+[33ma51b938[m HEAD@{8}: commit (merge): resolved merge
+[33m3647868[m refs/remotes/origin/main@{6}: pull origin main --allow-unrelated-histories: storing head
+[33m63746a5[m refs/heads/main@{8}: commit (initial): Initial commit
+[33m63746a5[m HEAD@{9}: commit (initial): Initial commit
