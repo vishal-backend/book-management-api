@@ -48,7 +48,7 @@ DELETE /users/{id}
 
 ---
 
-### Contact APIs
+## Contact APIs
 
 GET /contacts/{id}  
 GET /contacts/user/{userId}  
