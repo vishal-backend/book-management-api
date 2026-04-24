@@ -59,3 +59,24 @@ PUT /books/{id}
 DELETE /books/{id}
 
 ----
+
+## Author APIs
+
+```
+GET /authors
+GET /authors/{id}
+POST /authors
+PUT /authors/{id}
+DELETE /authors/{id}
+```
+
+## Book APIs
+
+```
+GET /books
+GET /books/{id}
+GET /books/author/{author_Id}
+POST /books/{author_id}
+PUT /books/{id}
+DELETE /books/{id}
+```
