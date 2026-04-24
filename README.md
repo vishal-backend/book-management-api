@@ -28,31 +28,34 @@ This project demonstrates backend development using Java, Spring Boot, and RESTf
 
 ---
 
-## Setup & Run
+## Setup & Run Instructions
 
-1.Clone the repository  
-2.Navigate the project  
-3.Run the application   
+1. Open the project in IntelliJ IDEA
+2. Let Maven load all dependencies
+3. Build the project:
+4. Run the application:
 
 ---
 
 ##  API Endpoints
 
-### User APIs
+### Author APIs
 
-GET /users  
-GET /users/{id}  
-POST /users  
-PUT /users/{id}  
-DELETE /users/{id}
+GET /authors
+GET/authors/{id}
+POST/authors
+PUT/authors/{id}
+DELETE /authors/{id}
 
 ---
 
-## Contact APIs
+## Book APIs
 
-GET /contacts/{id}  
-GET /contacts/user/{userId}  
-GET /contacts/search?name=abc  
-POST /contacts/user/{userId}  
-PUT /contacts/{id}  
-DELETE /contacts/{id}
+GET/books
+GET/books/{id}
+GET/books/author/{author_Id}
+POST/books/{author_id}
+PUT /books/{id}
+DELETE /books/{id}
+
+----
