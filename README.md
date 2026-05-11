@@ -33,7 +33,7 @@ This project demonstrates backend development using Java, Spring Boot, and RESTf
 1. Open the project in IntelliJ IDEA
 2. Let Maven load all dependencies
 3. Build the project:
-4. Run the application:
+4. Run the application
 
 ---
 
