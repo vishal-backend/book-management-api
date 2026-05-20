@@ -54,7 +54,7 @@ CREATE DATABASE book_author_db;
 ### 4. Configure application.properties
 
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/book_author_db
+spring.datasource.url=jdbc:mysql://localhost:3306/vishal
 spring.datasource.username=root
 spring.datasource.password=your_password
 
