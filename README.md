@@ -28,12 +28,55 @@ This project demonstrates backend development using Java, Spring Boot, and RESTf
 
 ---
 
-## Setup & Run Instructions
 
-1. Open the project in IntelliJ IDEA
-2. Let Maven load all dependencies
-3. Build the project:
-4. Run the application
+## How to Run the Project
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/book-author-api.git
+```
+
+### 2. Open Project
+
+Open in IntelliJ IDEA or VS Code.
+
+---
+
+### 3. Create Database
+
+```sql
+CREATE DATABASE book_author_db;
+```
+
+---
+
+### 4. Configure application.properties
+
+```properties
+spring.datasource.url=jdbc:mysql://localhost:3306/book_author_db
+spring.datasource.username=root
+spring.datasource.password=your_password
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+```
+
+---
+
+### 5. Install Dependencies
+
+```bash
+mvn clean install
+```
+
+---
+
+### 6. Run Project
+
+```bash
+mvn spring-boot:run
+```
 
 ---
 
