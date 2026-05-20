@@ -34,7 +34,7 @@ This project demonstrates backend development using Java, Spring Boot, and RESTf
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/book-author-api.git
+https://github.com/vishal-backend/book-management-api.git
 ```
 
 ### 2. Open Project
