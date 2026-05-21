@@ -57,7 +57,6 @@ CREATE DATABASE book_author_db;
 spring.datasource.url=jdbc:mysql://localhost:3306/vishal
 spring.datasource.username=root
 spring.datasource.password=your_password
-
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
@@ -90,7 +89,7 @@ http://localhost:8080
 ##  API Endpoints
 
 ----
-
+```
 ## Author APIs
 
 GET /authors  
@@ -98,9 +97,10 @@ GET /authors/{id}
 POST /authors  
 PUT /authors/{id}  
 DELETE /authors/{id}  
-
+```
 ---
 
+```
 ## Book APIs
 
 GET /books  
@@ -109,5 +109,8 @@ GET /books/author/{author_Id}
 POST /books/{author_id}  
 PUT /books/{id}  
 DELETE /books/{id}
+```
+
+---
 
 ---
