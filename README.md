@@ -1,12 +1,15 @@
 ##  Book Management API
 
+```
 A Spring Boot REST API for managing books with CRUD operations.  
 This project demonstrates backend development using Java, Spring Boot, and RESTful services.
+```
 
 ---
 
 ##  Features
 
+```
 - Add new books
 - Get all books
 - Get book by ID
@@ -14,17 +17,20 @@ This project demonstrates backend development using Java, Spring Boot, and RESTf
 - Delete books
 - REST API architecture
 - Exception handling
+```
 
 ---
 
 ## Tech Stack
 
+```
 - Java
 - Spring Boot
 - Spring Data JPA
 - Hibernate
 - MySQL 
 - Maven
+```
 
 ---
 
