@@ -70,6 +70,8 @@ spring.jpa.show-sql=true
 mvn clean install
 ```
 
+OR  run the main class from IDE.
+
 ---
 
 ### 6. Run Project
