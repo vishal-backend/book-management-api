@@ -28,7 +28,6 @@ This project demonstrates backend development using Java, Spring Boot, and RESTf
 
 ---
 
-
 ## How to Run the Project
 
 ### 1. Clone the Repository
