@@ -83,7 +83,7 @@ mvn spring-boot:run
 
 ## API Base URL
 
-```bash
+```
 http://localhost:8080
 ```
 ---
