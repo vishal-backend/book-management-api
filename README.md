@@ -7,7 +7,6 @@ This project demonstrates backend development using Java, Spring Boot, and RESTf
 
 ##  Features
 
-
 - Add new books
 - Get all books
 - Get book by ID
